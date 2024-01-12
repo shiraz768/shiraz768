@@ -1,4 +1,5 @@
- Hi there <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" width="30px" height="30">
+ Hi there
+          <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif" width="30px" height="30">
 🌱 I’m currently learning
 
 
