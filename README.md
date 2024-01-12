@@ -1,5 +1,5 @@
 <body bg-color="black">
-	<img src="https://github.com/shiraz768/shiraz768/blob/main/Shiraz%20Haidar%20(1).png">
+	<img src="https://github.com/shiraz768/shiraz768/blob/main/Shiraz%20Haidar.gif">
 <h1> Greetings! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30"></h1>
 <p>
 I'm Shiraz Haidar, a dedicated web developer with a passion for crafting digital experiences. With a solid foundation in web development, I bring a wealth of experience gained through the successful completion of various projects.
