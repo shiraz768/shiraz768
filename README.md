@@ -1,4 +1,4 @@
- Hi there 👋
+ Hi there <img src="https://github.com/nixin72/nixin72/blob/master/wave.gif">
 🌱 I’m currently learning
 
 
