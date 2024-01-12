@@ -1,3 +1,4 @@
+<body bg-color="black">
 <h1> Greetings! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30"></h1>
 <p>
 I'm Shiraz Haidar, a dedicated web developer with a passion for crafting digital experiences. With a solid foundation in web development, I bring a wealth of experience gained through the successful completion of various projects.
@@ -24,6 +25,7 @@ Throughout my journey, I've had the opportunity to work on a diverse range of pr
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiraz768&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 </div>
+</body>
 
 
 
